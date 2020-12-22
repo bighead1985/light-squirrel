@@ -8,28 +8,10 @@
     <description>foundation module of squirrel framework which provided event driven infrastructure and a finite state machine implementation.</description>
 
 
-    <url>https://github.com/hekailiang/squirrel</url>
-    <inceptionYear>2013</inceptionYear>
-
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <java.version>1.8</java.version>
     </properties>
-
-    <developers>
-        <developer>
-            <id>hekailiang</id>
-            <name>Henry.He</name>
-            <email>hekailiang@gmail.com</email>
-        </developer>
-    </developers>
-
-    <scm>
-        <connection>scm:git:git://github.com/hekailiang/squirrel.git</connection>
-        <developerConnection>scm:git:git@github.com:hekailiang/squirrel.git</developerConnection>
-        <url>https://github.com/hekailiang/squirrel.git</url>
-      <tag>HEAD</tag>
-  </scm>
 
     <licenses>
         <license>
